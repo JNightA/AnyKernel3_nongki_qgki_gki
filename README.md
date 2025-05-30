@@ -1,3 +1,5 @@
+来源于 coolapk 猫羽今天吃什么
+https://github.com/Kinaxie/AnyKernel3-qgki.git
 ----------------------------------------------------------------------------------
 AnyKernel3 - Flashable Zip Template for Kernel Releases with Ramdisk Modifications
 ----------------------------------------------------------------------------------
